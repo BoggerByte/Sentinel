@@ -1,0 +1,9 @@
+[submodule "Sentinel-backend"]
+	path = Sentinel-backend
+	url = git@github.com:BoggerByte/Sentinel-Backend.git
+[submodule "Sentinel-discord-bot"]
+	path = Sentinel-discord-bot
+	url = git@github.com:BoggerByte/Sentinel-Discord-Bot.git
+[submodule "Sentinel-frontend"]
+	path = Sentinel-frontend
+	url = git@github.com:BoggerByte/Sentinel-Frontend.git
